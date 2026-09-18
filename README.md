@@ -77,3 +77,17 @@ PizzaTrack/
 │   └── GestionPedidos.java
 │
 └── README.md
+## 📸 Evidencias del funcionamiento
+
+### Menú principal
+![Menú principal](capturas/menu.png)
+
+### Registrar Pizza
+![registrar pizza](capturas/registro.png)
+![registrar pizza](capturas/registro2.png)
+
+### Deshacer Pizza - Undo
+![Deshacer pizza](capturas/undo.png)
+
+### Rehacer Pizza - Redo
+capturas/redo.png
